@@ -1,6 +1,6 @@
 # mcp-from-scratch
 
-This project is a demonstration of the `mcp` (Multi-Tool-Co-Protocol) library, showcasing how to create and orchestrate multiple tool servers with a client that uses a LangChain agent to consume the exposed tools.
+This project is a demonstration of the `mcp` (Model-Context-Protocol), showcasing how to create and orchestrate multiple tool servers with a client that uses a LangChain agent to consume the exposed tools.
 
 ## Overview
 
